@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nisal Perera</h1>
+<h1 align="center">
+  Hi...., I'm Nisal Perera
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=welcome+to+my+Github+page;"></a>
+</p></h1>
 <h3 align="center">Passionate full-stack developer in Sri Lanka 🇱🇰 | Code enthusiast | Open-source contributor | Researcher</h3>
 
-- 🌱 I’m currently learning **Coventry University Bsc computing degree student**
+- 🌱 I’m an Undergraduate at **Coventry University UK**
 
 - 📫 How to reach me **nisalperera619@gmail.com**
 ---

@@ -6,10 +6,13 @@
 </p>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
 <h3 align="center">Passionate full-stack developer in Sri Lanka 🇱🇰 | Code enthusiast | Open-source contributor | Researcher</h3>
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I’m an Undergraduate at **Coventry University UK**
 
 - 📫 How to reach me **nisalperera619@gmail.com**
+  
+- 😉 Ask from me anything you want, If I am alive I will answer within seconds
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
